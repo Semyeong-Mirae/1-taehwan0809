@@ -19,7 +19,7 @@ class SimpleCalculator implements Calculator {
     }
 }
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         SimpleCalculator calc = new SimpleCalculator();
